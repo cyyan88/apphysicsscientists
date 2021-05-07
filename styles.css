@@ -1,3 +1,48 @@
 #historicalCard{
     width: 100% !important;
 }
+
+html{
+    font-size: 1.5em;
+}
+
+body{
+    background-color:aliceblue;
+    padding-bottom: 5%;
+}
+
+.row{
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.header{
+    text-align: center;
+    padding: 5%;
+}
+
+.info{
+    padding: 2%;
+}
+
+.card-header > .mb-0 > .btn{
+    color: darkblue;
+    font-size: 0.60em;
+}
+
+h1{
+    font-size: 3em;
+}
+
+.card-body{
+    padding: 5%;
+}
+
+
+.collapse{
+    padding-bottom: 5%;
+    margin: 2%;
+}
